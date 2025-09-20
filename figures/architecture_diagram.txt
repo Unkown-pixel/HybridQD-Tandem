@@ -1,0 +1,30 @@
+==============================================
+ HYBRIDQD-TANDEM DEVICE ARCHITECTURE
+==============================================
+
+[ Top Contact: Au or ITO ]
+        |
+[ HTL: NiOx (5nm) / MoOx (3nm) ]
+        |
+[ QD Stack (120nm total) ]
+   → Top: CsPbBr3 QDs @ 6.5nm (24nm, 20%) — absorbs 350-500 nm
+        |
+   [ 1nm PMMA Buffer ] ← prevents ion migration
+        |
+   → Mid: CISGZ QDs @ 2.5nm (48nm, 40%) — absorbs 500-650 nm
+        |
+   → Bot: CISGZ QDs @ 4.0nm (48nm, 40%) — absorbs 650-850 nm
+        |
+[ ETL: Zn0.9Mg0.1O + UV-GO (50nm) ]
+        |
+[ Bottom Contact: FTO or AZO ]
+        |
+[ Substrate: Glass or PET ]
+
+Ligand on ALL QDs: 70% L-Cysteine + 30% Br-
+Additive: 1.0% PbI2 surface treatment
+Annealing: 80°C 5min + 110°C 2min
+
+→ This is a "graded single junction" — not a true 2-terminal tandem.
+→ PMMA is thin enough to allow carrier tunneling.
+→ All layers share the same external circuit.
